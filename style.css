@@ -99,6 +99,10 @@ body {
 .noText {
   width: 80%;
   margin: auto;
+  display: flex;
+  @media screen and (max-width: 768px) {
+    height: 10vh;
+  }
 }
 .historyText {
   width: 70%;

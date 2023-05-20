@@ -99,7 +99,6 @@ body {
 .noText {
   width: 80%;
   margin: auto;
-  display: flex;
 }
 .historyText {
   width: 70%;
